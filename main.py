@@ -158,15 +158,6 @@ if __name__ == '__main__':
             items = db.select_by_age(input('Возраст-> '))
             print(items)
 
-
-
-
-
-
-
-
-
-
         else:
             break
 
